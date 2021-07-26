@@ -1,7 +1,7 @@
 # PP
 Programming paradigms - UPB 2021
 
-## Teme
+## Projects
 - Racket at the supermarket (**Racket**)
 
 - sort of an *Among Us* (**Haskell**)
