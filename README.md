@@ -2,6 +2,6 @@
 Paradigme de Programare - UPB 2021
 
 ## Teme
-- Racket la supermarket (**Racket**)
+- Racket at the supermarket (**Racket**)
 
-- un fel de *Among Us* (**Haskell**)
+- sort of an *Among Us* (**Haskell**)
